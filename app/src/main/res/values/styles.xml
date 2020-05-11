@@ -26,11 +26,11 @@
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="NoteTitle" parent="@android:style/TextAppearance.Material.Small">
-        <item name="android:textColor">@color/pluralsightPlum</item>
+        <item name="android:textColor">@color/colorPlum</item>
     </style>
 
     <style name="BrandedText" parent="@android:style/TextAppearance.Material.Medium">
-        <item name="android:textColor">@color/pluralsightOrange</item>
+        <item name="android:textColor">@color/colorOrange</item>
     </style>
 
     <style name="BrandedText.CourseName">

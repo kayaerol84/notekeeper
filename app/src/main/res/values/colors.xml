@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#263238</color>
     <color name="colorPrimaryDark">#212121</color>
-    <color name="colorAccent">@color/pluralsightOrange</color>
-    <color name="pluralsightOrange">#f05a28</color>
-    <color name="pluralsightPlum">#a7305d</color>
+    <color name="colorAccent">@color/colorOrange</color>
+    <color name="colorOrange">#f05a28</color>
+    <color name="colorPlum">#a7305d</color>
 </resources>
